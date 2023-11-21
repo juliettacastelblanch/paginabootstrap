@@ -616,3 +616,15 @@
 .my-float {
     margin-top: 16px;
 }
+.parrafo-servicios{
+    color: #30383B;
+    font-size: 14px;
+    font-weight: 300;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.625em;
+    letter-spacing: 0.32px;
+    width: 100%;
+    max-width: 100%;
+}
